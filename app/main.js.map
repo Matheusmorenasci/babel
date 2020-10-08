@@ -1,0 +1,1 @@
+{"version":3,"sources":["../app-src/main.js"],"names":["matheus","dirceu","frases","sibling"],"mappings":"AAAA,MAAMA,OAAO,GAAG,SAAhB;AACA,IAAIC,MAAM,GAAG,QAAb;AAEA,MAAMC,MAAM,GAAI,WAAUD,MAAO,gBAAeE,OAAQ,GAAxD","sourcesContent":["const matheus = 'sibling';\r\nlet dirceu = 'father';\r\n\r\nconst frases = `o pai é ${dirceu} e o filho é ${sibling}.`"],"file":"main.js"}
